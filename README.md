@@ -1,4 +1,4 @@
-<h1 align ="center" > GYM SERGIO FITNESS MEAN APLICATION </h1>
+<h1 align ="center" > GYM SERGIO FITNES APLICATION </h1>
 <h4  align ="center"> 
 Fullstack open source application, dynamic GYM CONTROL website</h4>
  <h4  align ="center"> Made with ANGULAR(18.2.0) MONGODB, Express, Nodejs(20.11.1),ASP.NET.CORE 8  </h4>
